@@ -51,7 +51,7 @@ public class Main {
         System.out.println("Потребуется дней: " + deliveryTime);
         System.out.println();
         //задание 4
-        byte monthNum = 3;
+        byte monthNum = 12;
         switch (monthNum){
             case 1:
             case 2:
@@ -60,7 +60,7 @@ public class Main {
 
             case 3:
             case 4:
-            case 5:
+            case 5:  //j
                 System.out.println("весна");
                 break;
 
